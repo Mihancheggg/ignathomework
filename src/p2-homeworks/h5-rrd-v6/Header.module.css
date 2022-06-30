@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+
+.container a {
+    padding: 10px;
+    font-weight: 700;
+}
+
+.container button {
+    position: relative;
+    z-index: 1;
+}
+
+.hiddenLinks{
+    opacity: 0;
+    transition: 1s ease;
+    transform: translateX(-40%);
+    z-index: -1;
+}
+
+.showLinks{
+    opacity: 1;
+    transition: 1s ease;
+    transform: translateX(0);
+}
