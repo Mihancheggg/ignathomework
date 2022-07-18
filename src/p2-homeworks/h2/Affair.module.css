@@ -1,9 +1,17 @@
-.container{
+.container {
+    width: 250px;
     margin-left: 10px;
     padding: 10px;
 }
 
-.container span{
-    padding-left: 10px;
+.container b {
+    display: inline-block;
+    width: 80px;
+}
+
+.container span {
+    display: inline-block;
+    width: 60px;
+    padding-left: 20px;
     padding-right: 20px;
 }
