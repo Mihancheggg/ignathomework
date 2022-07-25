@@ -1,0 +1,13 @@
+.container{
+}
+
+.elContainer{
+    padding: 10px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonContainer{
+    padding: 10px;
+}
