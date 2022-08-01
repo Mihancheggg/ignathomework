@@ -1,7 +1,7 @@
 import React from 'react'
 import Clock from './Clock'
 
-function HW9() {
+export function HW9() {
     return (
         <div>
             <hr/>
@@ -18,4 +18,4 @@ function HW9() {
     )
 }
 
-export default HW9
+
