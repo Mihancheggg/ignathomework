@@ -1,0 +1,7 @@
+.rangeContainer{
+
+}
+.rangeContainer span{
+    display: inline-block;
+    width: 30px;
+}
