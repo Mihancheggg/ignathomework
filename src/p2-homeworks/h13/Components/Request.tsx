@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import {RequestsAPI} from './RequestsAPI';
-import {log} from 'util';
 
 export const Request = () => {
 
