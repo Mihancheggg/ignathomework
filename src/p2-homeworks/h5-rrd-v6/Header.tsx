@@ -22,6 +22,7 @@ function Header() {
                 <NavLink to="/pre-junior">Pre-junior</NavLink>
                 <NavLink to="/junior">Junior</NavLink>
                 <NavLink to="/junior-plus">Junior+</NavLink>
+                <NavLink to="/middle-minus">Middle-</NavLink>
             </div>
 
         </div>
