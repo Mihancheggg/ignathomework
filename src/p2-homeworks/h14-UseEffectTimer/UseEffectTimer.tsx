@@ -15,6 +15,7 @@ export const UseEffectTimer = () => {
 
     return (
         <div>
+            <hr/>
             <p>{count}</p>
             <button onClick={() => setShow(true)}>Start</button>
             <button onClick={() => setShow(false)}>Stop</button>

@@ -7,7 +7,6 @@ export const HW13 = () => {
             <hr/>
             homeworks 13
             <Request/>
-            <hr/>
         </div>
     );
 };
